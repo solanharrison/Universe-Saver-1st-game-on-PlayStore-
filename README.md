@@ -80,7 +80,9 @@ If you like this project, consider giving it a **star ⭐** on GitHub.
 
 ---
 ## 🎥 GamEPlay Video
-<video src="https://github.com/user-attachments/assets/aee04b15-42aa-492a-92c7-526d5a075e81" controls="controls" muted="muted" autoplay="autoplay" loop="loop" style="max-width:100%;"></video>
+
+https://github.com/user-attachments/assets/60748adc-2a1d-44de-b638-6b5e18ed7651
+
 
 
 
@@ -88,7 +90,8 @@ If you like this project, consider giving it a **star ⭐** on GitHub.
 ![WhatsApp Image 2026-04-08 at 15 13 27](https://github.com/user-attachments/assets/d328c811-c937-4769-95bd-a817c2751cab)
 ![WhatsApp Image 2026-04-08 at 15 13 29](https://github.com/user-attachments/assets/85c24e0a-3ec1-4513-b08e-34b4e737f3d3)
 ![WhatsApp Image 2026-04-08 at 15 13 28](https://github.com/user-attachments/assets/505f7eee-c874-4b99-a314-05be5b887f97)
-![WhatsApp Image 2026-04-08 at 15 13 28 (2)](https://github.com/user-attachments/assets/21db4877-9537-4015-8681-b57b3fadf84c)
+<img width="1440" height="900" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/e2fb0cb5-c318-4510-8790-388f5a2fec6e" />
+
 
 
 ## 💻📸 Unity Editor Screenshots
